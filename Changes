@@ -1,0 +1,5 @@
+Revision history for DBIx::Class
+
+0.01 2011-09-03 16:00 (CEST)
+    * Initial works
+        - Put together the code and some tests
